@@ -83,4 +83,4 @@ az group delete --name java-functions-group
 
 ## Key concepts
 
-For details, see the full tutotial. 
+For more details, see the text version of full tutotial https://api7.ai/blog/manage-serverless-apis-with-apache-apisix. 
